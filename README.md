@@ -1,6 +1,6 @@
 # 👋 Hello, I'm George Dimoulas
 
-I'm mainly a **Web Developer** with over 4 years of experience in building high-quality web applications.
+I'm mainly a **Web Developer** with over 6 years of experience in building high-quality web applications.
 I also create **cross-platform mobile apps** for iOS and Android using **React Native** and **Flutter**.
 My primary focus is on front-end development using **JavaScript frameworks** like **React.js** and **Ionic**
 
