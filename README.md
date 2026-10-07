@@ -1,4 +1,4 @@
-##👋 Hello, I'm George Dimoulas
+#👋 Hello, I'm George Dimoulas
 
 Full-stack software engineer with 6+ years of experience building and running production platforms.
 I started on the front end and now work on systems end to end: web, mobile, backend and the infrastructure behind them.
